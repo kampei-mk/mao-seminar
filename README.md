@@ -17,3 +17,5 @@ seminar/
 本リポジトリは「わかばちゃんと学ぶGit使い方入門」の練習用として使用するリポジトリです。
 
 GitHub上での編集テスト＆Pull exam
+
+modified 2 & add comments
